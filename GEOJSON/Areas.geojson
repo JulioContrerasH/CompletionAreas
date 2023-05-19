@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Areas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Name": "Cordillera Blanca area" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -77.590479478172483, -8.811864135363198 ], [ -77.591112441483389, -8.902222685897353 ], [ -77.681971391024135, -8.901578830297161 ], [ -77.681316296217204, -8.811226915602463 ], [ -77.590479478172483, -8.811864135363198 ] ] ] ] } },
+{ "type": "Feature", "properties": { "id": 2, "Name": "Cordillera Vilcanota area" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -70.932960407053287, -13.771634197900541 ], [ -70.933705898910134, -13.862003744315141 ], [ -71.026195702068122, -13.861255293947067 ], [ -71.025414611165644, -13.770890813316232 ], [ -70.932960407053287, -13.771634197900541 ] ] ] ] } }
+]
+}
